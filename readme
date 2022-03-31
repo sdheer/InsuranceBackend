@@ -1,0 +1,3 @@
+The repository contains two branches, Master and InsuranceUI.
+Please take both the branches and place the insuranceUI branch code under the InsuranceUI folder in master branch.
+then run the startup.bat files to run both the code
